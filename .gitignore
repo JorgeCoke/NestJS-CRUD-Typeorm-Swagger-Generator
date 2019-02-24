@@ -1,0 +1,34 @@
+# GENERAL
+node_modules/
+package-lock.json
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+api/swagger2.json
+
+# GENERAL
+*~
+*.sw[mnpcod]
+*.log
+*.tmp
+*.tmp.*
+log.txt
+*.sublime-project
+*.sublime-workspace
+npm-debug.log*
+
+# MISC ANGULAR
+.sass-cache
+connect.lock
+coverage
+libpeerconnection.log
+npm-debug.log
+testem.log
+typings
+
+# TEST ANGULAR
+e2e/*.js
+e2e/*.map
+
+# SONAR
+.sonarlint/
